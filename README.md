@@ -15,7 +15,7 @@
 <br>
 Tabela de conteúdos
 =================
-<!--ts-->
+
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
@@ -27,5 +27,5 @@ Tabela de conteúdos
       * [Combo](#combo)
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
-<!--te-->
+
     
