@@ -14,7 +14,6 @@
 </h1>
 <br>
 Tabela de conteúdos
-=================
 
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
