@@ -13,10 +13,14 @@
     <a href="https://www.javascript.com/">🔗 JavaScript</a>   
 </h1>
 <br>
-<h2>Primeiro passo:</h2> 
+<h2>Passo Inicial</h2> 
 <p>Instalar a ferramenta UiPath e Python.</p>
 <p>Utilizar o comando  pip install -r requirements.txt para instalar os módulos do python</p>
-
 <br>
+<h2>Execução</h2>
+<p>Executar o UiPath</p>
+<br>
+<h2>Autor: Matheus Baars</h2>
+
 
     
